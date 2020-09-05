@@ -6,6 +6,7 @@ namespace CalculadoraPintura
     {
         static void Main(string[] args)
         {
+            // comentário de teste
             Console.WriteLine("Qual a largura do cômodo?");
             double largura = double.Parse(Console.ReadLine());
 
